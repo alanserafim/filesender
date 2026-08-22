@@ -46,7 +46,6 @@ Uma aplicação web (Frontend + Backend) com o objetivo principal de permitir o 
 
 ---
 **7. Instruções Estritas para o Agente de Código**
-*   **Planejamento primeiro:** Antes de escrever qualquer código, gere um plano de ação passo a passo de como os componentes e APIs serão criados. Aguarde minha aprovação.
 *   **Boas Práticas Git:**
     *   Siga estritamente o padrão de commits `Conventional Commits` (ex: `feat: add S3 upload service`, `fix: correct JWT expiration`).
     *   Utilize o fluxo `Gitflow` para nomeação de branches (ex: `feature/s3-integration`, `bugfix/login-error`).
