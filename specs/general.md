@@ -6,7 +6,7 @@ Uma aplicação web (Frontend + Backend) com o objetivo principal de permitir o 
 ---
 **2. Stack Tecnológico e Arquitetura**
 *   **Frontend:** Angular, Angular Material, UIKIT, HTML 5. 
-*   **Backend:** Java 17, Spring Boot.
+*   **Backend:** Java 21, Spring Boot.
 *   **Documentação de API:** SpringDoc OpenAPI.
 *   **Banco de Dados:** PostgreSQL (com Flyway para versionamento do schema).
 *   **Infraestrutura:** Docker (O projeto deve conter `Dockerfile` para as aplicações e `docker-compose.yml` para orquestração local do banco e serviços). As credenciais da AWS S3 DEVEM ser injetadas exclusivamente via Variáveis de Ambiente. NUNCA hardcode credenciais.
